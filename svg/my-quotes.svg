@@ -16,15 +16,15 @@
 					color: white;
                     line-height: 1.6;
 				}
-                .quotes-eng {
-                    font-size: 18px;
-                }             
-		    </style>
-        
+        .quotes-eng {
+          font-size: 18px;
+        }
+             
+		</style>
 
-            <div class="container">
-                <div class="quotes-eng">"Learning new everyday not the copy cat of yesterday!"</div>         
-            </div>
-        <div>
+		<div class="container">
+            <div class="quotes-eng">"Learning new everyday not the copy cat of yesterday!"</div> 
+        
+		</div>
 	</foreignObject>
 </svg>
