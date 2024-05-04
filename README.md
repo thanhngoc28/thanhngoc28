@@ -1,6 +1,5 @@
-<a href="#" target="_blank">
-  <img src="svg/trungquandev.svg" width="1200" alt="trungquandev-official" />
-</a>
+<h1 align="center"> Hi, I'm Thanh Nguyen</h1>
+<h3 align="center"> A passion....</h1>
 
 
 <h2 align="center">🛠 Technologies and Tools 🛠</h2>
@@ -47,7 +46,7 @@
 <span><img src="https://img.shields.io/badge/WordPress-282C34?logo=wordPress&logoColor=21759B" alt="WordPress logo" title="WordPress" height="25" /></span>
 
 <br>
-<h2 align="center">📑 My Favorites Quote 📑</h2>
+<h2 align="center"> My Favorites Quote </h2>
 <br>
 <a href="#" target="_blank">
   <img src="svg/my-quotes.svg" width="846" height="150" alt="my-quotes" />
